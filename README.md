@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Max 👋
 
 - 🌱 I’m currently learning **Kafka & Docker**
 - 💬 Ask me about **Java, Sim-Racing, Real Racing, Karting, Cars, Video Games & Music**
