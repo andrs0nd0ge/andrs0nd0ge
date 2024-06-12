@@ -1,6 +1,6 @@
 ## Hi, I'm Max 👋
 
-- 🌱 I’m currently learning **Kafka & Docker**
+- 🌱 I’m currently relearning **The Basics Of Java And SQL**
 - 💬 Ask me about **Java, Sim-Racing, Real Racing, Karting, Cars, Video Games & Music**
 - 📫 How to reach me: [liv.max02@gmail.com](mailto:liv.max02@gmail.com)
 - ⚡ Fun fact: *I am a naturally curious person and I love learning*
