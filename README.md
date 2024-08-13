@@ -1,6 +1,6 @@
 ## Hi, I'm Max 👋
 
-- 🌱 I’m currently **cracking challenges on HackerRank and finishing my pet projects**
+- 🌱 I’m currently **finishing my pet projects and learning Docker**
 - 💬 Ask me about **Java, Sim-Racing, Real Racing, Karting, Cars, Video Games & Music**
 - 📫 How to reach me: [liv.max02@gmail.com](mailto:liv.max02@gmail.com)
 - ⚡ Fun fact: *I am a naturally curious person and I love learning*
